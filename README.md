@@ -1,47 +1,72 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" />
 
-<h1>🚀 Hey, I'm Shantanu Shahane!</h1>
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Shantanu+Shahane" alt="Title GitHub Readme" />
+  </a>
+</h1>
+<br>
 
-<div class="animation-container">
-    <h2>🌌 A Glimpse Into My World</h2>
-</div>
-<p>Welcome to my profile! I’m a dedicated Computer Science enthusiast with a knack for transforming ideas into code using <strong>Java</strong>, <strong>JavaScript</strong>, and <strong>Python</strong>. My journey in technology is fueled by curiosity and a passion for continuous learning.</p>
+# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+🎓 My name is Shantanu Rameshwar Shahane, a Computer Engineering student at MIT College 🇮🇳, with a passion for Web Dev, App Dev and Cloud Computing.  
+<br>
+💻 I have worked on projects like an Attendance system using face recognition, Aegis Healthcare, leveraging my skills in Advanced Java, JavaScript, Python, Web Development and Android Development.<br>
+🎻 Outside academics, I enjoy playing the Guitars, cinematography 🎞️, and video games 🎮.<br>
+📈 I am also deeply interested in the stock market and cryptocurrencies.<br>
 
-<h2>🌱 Current Focus:</h2>
-<p>Right now, I’m diving deep into <strong>Web Development</strong>, exploring new frameworks, and creating dynamic web applications. The thrill of building something impactful drives my daily learning.</p>
 
-<h2>📚 My Learning Philosophy:</h2>
-<p>I believe in the power of lifelong learning. Whether it’s mastering a new programming language or contributing to open-source projects, I’m all about expanding my horizons.</p>
+## 📈 GitHub Activity Graph:
 
-<h2>🔧 Tech Toolbox:</h2>
-<ul>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="25" height="25"/> C</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"/> C++</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"/> Java</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="25"/> HTML5</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="25" height="25"/> CSS3</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="25" height="25"/> Node.js</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="25" height="25"/> MongoDB</li>
-    <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/> Git</li>
-    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/> Linux</li>
-</ul>
+<p align="center">
+  <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
 
-<h2>🌍 Open-Source Contributions:</h2>
-<p>I’m passionate about giving back to the community! I actively contribute to open-source projects that resonate with my interests and skills, collaborating with other developers to create something meaningful.</p>
+<p align="center">
+  <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shon2505&theme=aura"
+    />
+  <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon2505&theme=aura"
+    />
+</p>
 
-<h2>💬 Let’s Connect:</h2>
-<p>I love connecting with fellow tech enthusiasts and collaborating on innovative projects. Here’s how you can reach me:</p>
-<ul>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shantanu-shahane-4954251b8/">Shantanu Shahane</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/shon2505">shon2505</a></li>
-    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/shantanuu2525?igsh=MWRzZzRpd2NtNzNsaQ==">shantanuu2525</a></li>
-    <li><strong>Email:</strong> <a href="mailto:shahaneshantanu2505@gmail.com">shahaneshantanu2505@gmail.com</a></li>
-<!--     <li><strong>Twitter:</strong> <a href="https://twitter.com/AjinkyaDhotre3">AjinkyaD3</a></li> -->
-</ul>
+<p align="center">
+  <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon2505&theme=aura"
+    />
+  <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shon2505&theme=aura&utcOffset=8"
+    />
+</p>
 
-<h2>💡 Fun Fact:</h2>
-<p>When I'm not coding, you can find me exploring new technologies, cycling through scenic routes, or embarking on trekking adventures. I believe that the best ideas often come from stepping outside of my comfort zone.</p>
+<p align="center">
+ <a href="https://github.com/shon2505">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon2505&theme=aura"
+    />
+</p>
 
-</body>
-</html>
+
+## Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
