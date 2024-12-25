@@ -64,7 +64,14 @@
 ## Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive" download>Download my resume</a>
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p >
+<!-- &nbsp; <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   -->
+&nbsp; <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:shahaneshantanu2505@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
