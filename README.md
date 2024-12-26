@@ -14,6 +14,11 @@
 💻 I have worked on projects like an Attendance system using face recognition, Aegis Healthcare, leveraging my skills in Advanced Java, JavaScript, Python, Web Development and Android Development.<br>
 🎻 Outside academics, I enjoy playing the Guitars, cinematography 🎞️, and video games 🎮.<br>
 📈 I am also deeply interested in the stock market and cryptocurrencies.<br>
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,js,nodejs,react,express,cpp,dotnet,html,css,bootstrap,php,androidstudio)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 
 ## 📈 GitHub Activity Graph:
