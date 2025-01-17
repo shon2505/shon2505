@@ -62,7 +62,7 @@
 
 ## Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive" download>Download my resume</a>
+> <a href="[https://drive.google.com/drive](https://drive.google.com/drive/folders/1Vz4DSzTkxGFW-Sqx9jr0NLtFpntO1bQt)" download>Download my resume</a>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p >
