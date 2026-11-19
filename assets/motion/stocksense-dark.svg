@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+<title id="title">StockSense</title><desc id="desc">Financial news → sentiment signals. Conceptual animated illustration; not a product screenshot or live data.</desc>
+<defs>
+ <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1E2233"/><stop offset="1" stop-color="#0B0D14"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#C2AFF5"/><stop offset="1" stop-color="#C6EF9A"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2A3041" stroke-width=".6" opacity=".4"/></pattern>
+</defs>
+<style>
+.orbit{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.orbit-reverse{transform-box:fill-box;transform-origin:center;animation:spin 36s linear reverse infinite}
+.float{animation:float 7s ease-in-out infinite}
+.signal{stroke-dasharray:16 480;animation:signal 7s linear infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.scan{animation:scan 6s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes signal{to{stroke-dashoffset:-496}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes scan{0%,100%{opacity:.25}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.orbit,.orbit-reverse,.float,.signal,.pulse,.scan{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="243" rx="24" fill="#0B0D14" stroke="#2A3041"/>
+<text x="40" y="45" font-family="DejaVu Sans Mono,monospace" font-size="14" font-weight="400" fill="#A3A9BD" letter-spacing="1.5">03 / APPLIED MACHINE LEARNING</text><text x="38" y="118" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" fill="#F5F3EF" >StockSense</text><text x="42" y="167" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#C2AFF5" >Financial news → sentiment signals.</text><path d="M42 204H620" stroke="#2A3041"/><path class="signal" d="M42 204H620" stroke="#C2AFF5" stroke-width="2"/><rect class="scan" x="828" y="160" width="12" height="30" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:0.0s"/><rect class="scan" x="854" y="140" width="12" height="50" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:0.3s"/><rect class="scan" x="880" y="115" width="12" height="75" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:0.6s"/><rect class="scan" x="906" y="144" width="12" height="46" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:0.8999999999999999s"/><rect class="scan" x="932" y="100" width="12" height="90" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:1.2s"/><rect class="scan" x="958" y="126" width="12" height="64" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:1.5s"/><rect class="scan" x="984" y="86" width="12" height="104" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:1.7999999999999998s"/><rect class="scan" x="1010" y="108" width="12" height="82" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:2.1s"/><rect class="scan" x="1036" y="74" width="12" height="116" rx="4" fill="#C2AFF5" opacity=".55" style="animation-delay:2.4s"/><path d="M818 164L852 145 885 151 920 116 949 126 980 92 1016 101 1066 62" fill="none" stroke="#C6EF9A" stroke-width="3"/><circle class="pulse" cx="1066" cy="62" r="5" fill="#C6EF9A"/>
+</svg>

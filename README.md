@@ -1,127 +1,161 @@
-<!-- Developer Studio / Shantanu Shahane. Upload assets/ beside this README.md. -->
-<p align="center">
-  <img src="./developer-studio.png" width="100%" alt="Shantanu Shahane — Developer Studio. A cinematic workspace with code screens, a guitar, a camera, and a night-sky window." />
-</p>
-
-<h1 align="center">Hi, I'm Shantanu.</h1>
-
-<p align="center">
-  <b>B.Tech · Computer Science · MIT College · India 🇮🇳</b><br>
-  Building for the web. Exploring the cloud.
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1Vz4DSzTkxGFW-Sqx9jr0NLtFpntO1bQt"><b>View résumé</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
-  <a href="mailto:shahaneshantanu2505@gmail.com"><b>Email me</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/shon2505?tab=repositories"><b>Repositories</b></a>
-</p>
-
+<!-- Systems in Motion / Shantanu Shahane. Upload assets/ beside README.md. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./studio-strip-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./studio-strip-light.svg">
-  <img src="./studio-strip-dark.svg" width="100%" alt="Code: web and Android. Cloud: AWS and Azure. Create: guitar and cinematography." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/motion/hero-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/motion/hero-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/motion/hero-light.svg">
+  <img src="./assets/motion/hero-dark.svg" width="100%" alt="Shantanu Shahane — Systems in Motion. Co-founder at Astrix Technologies. Full-stack software and applied AI. CSE with honors in cloud computing, class of 2027.">
 </picture>
 
----
+<p align="center"><b>Shantanu Rameshwar Shahane</b><br>Co-Founder &amp; Software Engineer at Astrix Technologies<br>Final-year Computer Science Engineering · Honors in Cloud Computing</p>
 
-## A little about me
+<p align="center">
+  <a href="https://www.shantanushahane.in/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/motion/portfolio-light.svg"><img src="./assets/motion/portfolio-dark.svg" width="132" height="42" alt="Portfolio"></picture></a>
+  <a href="https://looply.codexajinkya.in/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/motion/looply-link-light.svg"><img src="./assets/motion/looply-link-dark.svg" width="116" height="42" alt="Looply live demo"></picture></a>
+  <a href="./assets/resume/Shantanu_Shahane_Resume.pdf"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/motion/resume-light.svg"><img src="./assets/motion/resume-dark.svg" width="120" height="42" alt="Latest résumé"></picture></a>
+  <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/motion/linkedin-light.svg"><img src="./assets/motion/linkedin-dark.svg" width="130" height="42" alt="LinkedIn"></picture></a>
+  <a href="mailto:shantanushahane2505@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/motion/email-light.svg"><img src="./assets/motion/email-dark.svg" width="106" height="42" alt="Email"></picture></a>
+</p>
 
-I'm **Shantanu Rameshwar Shahane**, a Computer Science student at **MIT College, India**, interested in **web development, Android development, and cloud computing**.
+I build **full-stack SaaS products, AI-powered features, and workflow automations**. At **Astrix Technologies**, I work across product design, frontend, backend, databases, integrations, and deployment.
 
-I've worked on projects including a **Face Recognition Attendance System** and **Aegis Healthcare**, drawing on my experience with Advanced Java, JavaScript, Python, web development, and Android development.
+My current toolkit centers on **TypeScript, React / Next.js, Node.js, PostgreSQL, Python, and AWS**. I use Claude Code and Codex alongside written specs, code review, and hands-on engineering.
 
-I enjoy connecting what I learn in the classroom with what I can build through code.
+## 01 / Selected builds
 
-<!-- If your official degree is Computer Engineering, change Computer Science above and in the subtitle. Update the student wording if you have graduated. -->
+<!-- All project covers are original conceptual illustrations, not screenshots or live metrics. -->
 
-## Selected work
+### Looply — customer loyalty & engagement
 
-### 01 / Face Recognition Attendance System
+<a href="https://looply.codexajinkya.in/"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/motion/looply-light.svg">
+  <img src="./assets/motion/looply-dark.svg" width="100%" alt="Looply — loyalty and engagement. Animated conceptual illustration.">
+</picture></a>
 
-An attendance system using **face recognition** — a project connecting identification technology with an everyday academic task.
+A platform for businesses to manage **rewards, visits, transactions, and engagement campaigns**. I built the REST APIs, database schema, and role-based access for business owners and staff.
 
-**Focus:** Face recognition · Attendance
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `AWS`
 
-<!-- Add this project's verified repository URL, actual stack, your contribution, and a real screenshot here. No project URL or screenshot has been invented. -->
+**[Open Looply ↗](https://looply.codexajinkya.in/)**
 
-### 02 / Aegis Healthcare
+### CA Firm Automation — multi-tenant CRM
 
-A **healthcare project** I've worked on, bringing my interest in software development into the healthcare domain.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/motion/ca-platform-light.svg">
+  <img src="./assets/motion/ca-platform-dark.svg" width="100%" alt="CA Firm Platform — multi-tenant operations and AI copilot. Animated conceptual illustration.">
+</picture>
 
-**Focus:** Healthcare · Software development
+A CRM for managing **clients, compliance deadlines, tasks, and billing** across organizations, with tenant isolation and role-based access. Its **Groq-powered compliance copilot** answers questions using live CRM data; **n8n workflows** automate recurring operations.
 
-<!-- Add this project's verified repository URL, implemented features, actual stack, and a real screenshot here. -->
+`TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Groq` `n8n`
 
-**[Explore my repositories →](https://github.com/shon2505?tab=repositories)**
+**[Ask me about this project ↗](mailto:shantanushahane2505@gmail.com?subject=CA%20Firm%20Automation%20Platform)**
 
-## My toolkit
+<!-- Add a public case study or repository link when one is available. -->
 
-**Languages**  
-Python · Java / Advanced Java · JavaScript · C++ · PHP
+### StockSense — financial news sentiment
 
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,php&amp;perline=5" alt="Python, Java, JavaScript, C++, PHP" />
+<a href="https://github.com/shon2505/StockSense"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/motion/stocksense-light.svg">
+  <img src="./assets/motion/stocksense-dark.svg" width="100%" alt="StockSense — financial news sentiment. Decorative chart, not live market data.">
+</picture></a>
 
-**Web development**  
-React · Node.js · Express · HTML · CSS · Bootstrap
+A platform that analyzes **financial news sentiment with a trained ML model** to estimate stock trends, with TradingView charts for market context.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap&amp;perline=6" alt="React, Node.js, Express, HTML, CSS, Bootstrap" />
+`Python` `TypeScript` `Machine learning` `TradingView`
+
+**[Explore the repository ↗](https://github.com/shon2505/StockSense)**
 
 <details>
-<summary><b>Databases, platforms &amp; developer tools</b></summary>
+<summary><b>More builds / AI, cloud &amp; earlier projects</b></summary>
 
-**Databases:** MongoDB · MySQL  
-**Platforms and tools:** Android Studio · .NET · Git · GitHub  
-**Also in my toolkit:** Regular expressions
+| Project | What it explores | Links |
+| :--- | :--- | :--- |
+| **CloudMentor** | A cloud-computing study assistant with streaming AI responses; Next.js, TypeScript, and Groq. | [Code](https://github.com/shon2505/Cloud_Mentor) · [Demo](https://cloud-mentor-ochre.vercel.app) |
+| **SahmatiPay** | AI financial agreement analysis; hackathon-winning project. | [Code](https://github.com/shon2505/SahmatiPay) · [Demo](https://sahmati-pay.vercel.app) |
+| **Aegis Healthcare** | An earlier healthcare software project. | [Code](https://github.com/shon2505/AEGIS_HealthCare) |
+| **Face Recognition Attendance System** | 1st prize in the Polytechnic Final Year Project Competition. | [Discuss the project](mailto:shantanushahane2505@gmail.com?subject=Face%20Recognition%20Attendance%20System) |
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,dotnet,git,github,regex&amp;perline=4" alt="MongoDB, MySQL, Android Studio, .NET, Git, GitHub, regular expressions" />
+[Browse all repositories →](https://github.com/shon2505?tab=repositories)
 
 </details>
 
-## Currently exploring
+## 02 / Engineering toolkit
 
-**AWS and Microsoft Azure** — expanding my understanding of cloud computing alongside my interest in web and mobile development.
-
-<img src="https://skillicons.dev/icons?i=aws,azure" alt="Learning AWS and Microsoft Azure" />
-
-<!-- When you have a specific current project, add one concise sentence and its real repository link here. -->
-
-## On GitHub
-
-<a href="https://github.com/shon2505">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon2505&amp;theme=aura" alt="Shantanu's GitHub contribution and profile summary" />
-</a>
+| Layer | Technologies |
+| :--- | :--- |
+| **Interface** | TypeScript · JavaScript · React · Next.js |
+| **Backend & data** | Node.js · Express · PostgreSQL · Prisma · MongoDB · REST APIs · SQL |
+| **AI & automation** | Python · Groq / LLM APIs · n8n · AI agents · Claude Code · Codex · ChatGPT |
+| **Cloud & delivery** | AWS · Docker · Vercel · Linux / CLI · Git · GitHub · Postman |
+| **Foundations** | Java · C · C++ · DSA · OOP · Agile / Scrum · TCP/IP · HTTP / HTTPS |
 
 <details>
-<summary><b>More activity &amp; language statistics</b></summary>
+<summary><b>Earlier experience &amp; additional tools</b></summary>
 
-<p align="center">
-  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shon2505&amp;theme=aura" alt="Languages represented in my commits" /></a>
-  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon2505&amp;theme=aura" alt="Languages represented across my repositories" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon2505&amp;theme=aura" alt="GitHub activity statistics" /></a>
-  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shon2505&amp;theme=aura&amp;timeZone=Asia%2FKolkata" alt="Commit activity by time of day in India Standard Time" /></a>
-</p>
+Advanced Java · JSP · Android development · Android Studio · MySQL · HTML · CSS · Bootstrap · PHP · .NET · Regular expressions
 
-<sub>These charts summarize GitHub activity and repository languages; they are not proficiency ratings.</sub>
+My earlier cloud-learning interests also include Microsoft Azure.
 
 </details>
 
-## Away from the keyboard
+## 03 / Experience
 
-🎸 **Guitar** — a different kind of practice.  
-🎞️ **Cinematography** — an eye for frames and storytelling.  
-🎮 **Video games** — another space for curiosity and creativity.  
-📈 **Markets** — interested in the stock market and cryptocurrencies.
+| Role | Work |
+| :--- | :--- |
+| **Co-Founder & Software Engineer · Astrix Technologies**<br>Current | End-to-end SaaS and client web development, API integrations, databases, deployment, and AI automation. Client work includes Energy Star Homes, Grand Renovations, and The Lotus Roots. |
+| **Full Stack Developer Intern · EatZze**<br>Feb–Mar 2025 | MERN development, backend REST APIs, database operations, responsive interfaces, and application performance work. |
+| **Software Developer Intern · NasKraft IT Solutions**<br>Jun–Sep 2023 | Android development, JSP backend logic, and database connectivity. |
 
-## Let's connect
+## 04 / Milestones
 
-Have an interesting project, a collaboration idea, or an opportunity to discuss? **[Send me an email](mailto:shahaneshantanu2505@gmail.com)**.
+- **Hackathon winner** — SahmatiPay, an AI financial agreement analyzer.
+- **1st prize** — Face Recognition Attendance System, Polytechnic Final Year Project Competition.
+- **B.Tech Computer Science Engineering, Honors in Cloud Computing** — Maharashtra Institute of Technology, Chhatrapati Sambhajinagar. Expected graduation: **May 2027**.
 
-[Résumé](https://drive.google.com/drive/folders/1Vz4DSzTkxGFW-Sqx9jr0NLtFpntO1bQt) · [LinkedIn](https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/) · [GitHub](https://github.com/shon2505)
+<details>
+<summary><b>Certifications &amp; education</b></summary>
+
+- AWS Cloud Quest: Cloud Practitioner — AWS Skill Builder.
+- Oracle Generative AI Certification.
+- Diploma in Computer Engineering — MIT Polytechnic, **90%**.
+- SSC — Saint Xavier’s High School, **85%**.
+
+</details>
+
+## 05 / GitHub activity
+
+<details>
+<summary><b>Contributions, languages &amp; activity patterns</b></summary>
+
+<a href="https://github.com/shon2505"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon2505&amp;theme=aura" alt="GitHub contribution and profile summary"></a>
+
+<p align="center">
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shon2505&amp;theme=aura" alt="Languages represented in commits"></a>
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon2505&amp;theme=aura" alt="Languages represented across repositories"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon2505&amp;theme=aura" alt="GitHub statistics"></a>
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shon2505&amp;theme=aura&amp;timeZone=Asia%2FKolkata" alt="Commit activity by time of day, India Standard Time"></a>
+</p>
+
+<sub>Repository activity and language statistics; not proficiency ratings.</sub>
+
+</details>
+
+<details>
+<summary><b>Profile visits</b></summary>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" alt="Profile visitor counter">
+
+</details>
 
 ---
 
-<p align="center"><sub>Code, clouds, and a little cinematography.</sub></p>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" alt="Profile visitor counter" /></p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/motion/footer-light.svg">
+  <img src="./assets/motion/footer-dark.svg" width="100%" alt="Let’s build something useful. From a good idea to working software.">
+</picture>
+
+**[Portfolio](https://www.shantanushahane.in/) · [Latest résumé](./assets/resume/Shantanu_Shahane_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/) · [Email](mailto:shantanushahane2505@gmail.com)**
+
+<p><sub>Based in Chhatrapati Sambhajinagar, Maharashtra, India.</sub></p>

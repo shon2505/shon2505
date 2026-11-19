@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+<title id="title">CA Firm Platform</title><desc id="desc">Operations, with an AI copilot. Conceptual animated illustration; not a product screenshot or live data.</desc>
+<defs>
+ <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9E5F0"/><stop offset="1" stop-color="#F6F4F0"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#7956AA"/><stop offset="1" stop-color="#50742E"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#D6D5DF" stroke-width=".6" opacity=".4"/></pattern>
+</defs>
+<style>
+.orbit{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.orbit-reverse{transform-box:fill-box;transform-origin:center;animation:spin 36s linear reverse infinite}
+.float{animation:float 7s ease-in-out infinite}
+.signal{stroke-dasharray:16 480;animation:signal 7s linear infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.scan{animation:scan 6s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes signal{to{stroke-dashoffset:-496}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes scan{0%,100%{opacity:.25}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.orbit,.orbit-reverse,.float,.signal,.pulse,.scan{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="243" rx="24" fill="#F6F4F0" stroke="#D6D5DF"/>
+<text x="40" y="45" font-family="DejaVu Sans Mono,monospace" font-size="14" font-weight="400" fill="#60697B" letter-spacing="1.5">02 / MULTI-TENANT SYSTEM</text><text x="38" y="118" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" fill="#202333" >CA Firm Platform</text><text x="42" y="167" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#7956AA" >Operations, with an AI copilot.</text><path d="M42 204H620" stroke="#D6D5DF"/><path class="signal" d="M42 204H620" stroke="#7956AA" stroke-width="2"/><path d="M945 125L852 66" stroke="#D6D5DF" stroke-width="2"/><path class="signal" d="M945 125L852 66" stroke="#7956AA" stroke-width="2"/><rect x="830" y="48" width="44" height="36" rx="8" fill="#FFFFFF" stroke="#7956AA"/><path d="M842 66h20" stroke="#50742E"/><path d="M945 125L1032 66" stroke="#D6D5DF" stroke-width="2"/><path class="signal" d="M945 125L1032 66" stroke="#7956AA" stroke-width="2"/><rect x="1010" y="48" width="44" height="36" rx="8" fill="#FFFFFF" stroke="#7956AA"/><path d="M1022 66h20" stroke="#50742E"/><path d="M945 125L852 164" stroke="#D6D5DF" stroke-width="2"/><path class="signal" d="M945 125L852 164" stroke="#7956AA" stroke-width="2"/><rect x="830" y="146" width="44" height="36" rx="8" fill="#FFFFFF" stroke="#7956AA"/><path d="M842 164h20" stroke="#50742E"/><path d="M945 125L1032 164" stroke="#D6D5DF" stroke-width="2"/><path class="signal" d="M945 125L1032 164" stroke="#7956AA" stroke-width="2"/><rect x="1010" y="146" width="44" height="36" rx="8" fill="#FFFFFF" stroke="#7956AA"/><path d="M1022 164h20" stroke="#50742E"/><rect x="910" y="90" width="70" height="70" rx="20" fill="#E9E5F0" stroke="#7956AA"/><text x="945" y="132" font-family="DejaVu Sans Mono,monospace" font-size="21" font-weight="700" fill="#202333" text-anchor="middle">AI</text>
+</svg>
