@@ -143,6 +143,17 @@ My earlier cloud-learning interests also include Microsoft Azure.
 </details>
 
 <details>
+<summary><b>A little contribution animation</b></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+  <img src="./assets/github-snake.svg" width="100%" alt="Snake animation tracing my GitHub contribution grid" />
+</picture>
+
+</details>
+
+<details>
 <summary><b>Profile visits</b></summary>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" alt="Profile visitor counter">
