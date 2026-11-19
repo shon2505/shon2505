@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="124" viewBox="0 0 1000 124" role="img" aria-labelledby="title desc">
+ <title id="title">Code. Cloud. Creativity.</title>
+ <desc id="desc">Web and Android development, cloud learning, and creative interests. A gentle light travels along a connecting line.</desc>
+ <style>
+ .pulse{animation:breathe 5s ease-in-out infinite} .trace{stroke-dasharray:35 885;animation:travel 9s linear infinite}
+ @keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}
+ @keyframes travel{from{stroke-dashoffset:920}to{stroke-dashoffset:0}}
+ @media(prefers-reduced-motion:reduce){.pulse,.trace{animation:none}.trace{stroke-dasharray:none;opacity:.4}}
+ </style>
+ <rect x="1" y="1" width="998" height="122" rx="16" fill="#101321" stroke="#313447"/>
+ <path d="M40 98H960" stroke="#313447" stroke-width="2"/>
+ <path class="trace" d="M40 98H960" stroke="#D9BED1" stroke-width="2" fill="none"/>
+ <g font-family="'DejaVu Sans',Arial,sans-serif">
+ <text x="42" y="42" fill="#D9BED1" font-family="monospace" font-size="15">01 / CODE</text>
+ <text x="42" y="72" fill="#F5F0F6" font-size="20" font-weight="600">Web &amp; Android</text>
+ <text x="374" y="42" fill="#D9BED1" font-family="monospace" font-size="15">02 / CLOUD</text>
+ <text x="374" y="72" fill="#F5F0F6" font-size="20" font-weight="600">AWS &amp; Azure</text>
+ <text x="704" y="42" fill="#D9BED1" font-family="monospace" font-size="15">03 / CREATE</text>
+ <text x="704" y="72" fill="#F5F0F6" font-size="20" font-weight="600">Guitar &amp; cinematography</text>
+ </g>
+ <circle class="pulse" cx="960" cy="38" r="4" fill="#D9BED1"/>
+ </svg>
