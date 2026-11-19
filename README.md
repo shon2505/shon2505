@@ -1,78 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" />
-
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Shantanu+Shahane" alt="Title GitHub Readme" />
-  </a>
-</h1>
-<br>
-
-
-# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
-🎓 My name is Shantanu Rameshwar Shahane, a Computer Engineering student at MIT College 🇮🇳, with a passion for Web Dev, App Dev and Cloud Computing.  
-<br>
-💻 I have worked on projects like an Attendance system using face recognition, Aegis Healthcare, leveraging my skills in Advanced Java, JavaScript, Python, Web Development and Android Development.<br>
-🎻 Outside academics, I enjoy playing the Guitars, cinematography 🎞️, and video games 🎮.<br>
-📈 I am also deeply interested in the stock market and cryptocurrencies.<br>
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,js,nodejs,react,express,cpp,dotnet,html,css,bootstrap,php,androidstudio)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-
-
-## 📈 GitHub Activity Graph:
-
-
+<!-- Paste-only edition: no local assets required; remote image services need to be available. -->
+<h1 align="center">Shantanu Shahane</h1>
+<p align="center"><b>D E V E L O P E R &nbsp; S T U D I O</b></p>
 <p align="center">
-  <a href="https://github.com/shon2505">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shon2505&theme=aura"
-    />
-  <a href="https://github.com/shon2505">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon2505&theme=aura"
-    />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3300&amp;pause=1200&amp;color=B78BAD&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=Building+for+the+web.;Exploring+the+cloud.;Code%2C+clouds%2C+and+creativity." width="700" alt="Building for the web. Exploring the cloud. Code, clouds, and creativity." />
+</p><p align="center">
+  <b>B.Tech · Computer Science · MIT College · India 🇮🇳</b><br>
+  Building for the web. Exploring the cloud.
+</p><p align="center">
+  <a href="https://drive.google.com/drive/folders/1Vz4DSzTkxGFW-Sqx9jr0NLtFpntO1bQt"><b>View résumé</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="mailto:shahaneshantanu2505@gmail.com"><b>Email me</b></a> &nbsp; / &nbsp;
+  <a href="https://github.com/shon2505?tab=repositories"><b>Repositories</b></a>
+</p>A little about me
+I'm Shantanu Rameshwar Shahane, a Computer Science student at MIT College, India, interested in web development, Android development, and cloud computing.
 
+I've worked on projects including a Face Recognition Attendance System and Aegis Healthcare, drawing on my experience with Advanced Java, JavaScript, Python, web development, and Android development.
+
+I enjoy connecting what I learn in the classroom with what I can build through code.
+<!-- If your official degree is Computer Engineering, change Computer Science above and in the subtitle. Update the student wording if you have graduated. -->Selected work
+01 / Face Recognition Attendance System
+An attendance system using face recognition — a project connecting identification technology with an everyday academic task.
+
+Focus: Face recognition · Attendance
+<!-- Add this project's verified repository URL, actual stack, your contribution, and a real screenshot here. No project URL or screenshot has been invented. -->02 / Aegis Healthcare
+A healthcare project I've worked on, bringing my interest in software development into the healthcare domain.
+
+Focus: Healthcare · Software development
+<!-- Add this project's verified repository URL, implemented features, actual stack, and a real screenshot here. -->
+Explore my repositories →
+My toolkit
+Languages
+Python · Java / Advanced Java · JavaScript · C++ · PHP
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp,php&amp;perline=5" alt="Python, Java, JavaScript, C++, PHP" />
+Web development
+React · Node.js · Express · HTML · CSS · Bootstrap
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap&amp;perline=6" alt="React, Node.js, Express, HTML, CSS, Bootstrap" /><details>
+<summary><b>Databases, platforms &amp; developer tools</b></summary>
+Databases: MongoDB · MySQL
+Platforms and tools: Android Studio · .NET · Git · GitHub
+Also in my toolkit: Regular expressions
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,dotnet,git,github,regex&amp;perline=4" alt="MongoDB, MySQL, Android Studio, .NET, Git, GitHub, regular expressions" /></details>Currently exploring
+AWS and Microsoft Azure — expanding my understanding of cloud computing alongside my interest in web and mobile development.
+<img src="https://skillicons.dev/icons?i=aws,azure" alt="Learning AWS and Microsoft Azure" /><!-- When you have a specific current project, add one concise sentence and its real repository link here. -->On GitHub
+<a href="https://github.com/shon2505">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon2505&amp;theme=aura" alt="Shantanu's GitHub contribution and profile summary" />
+</a><details>
+<summary><b>More activity &amp; language statistics</b></summary><p align="center">
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shon2505&amp;theme=aura" alt="Languages represented in my commits" /></a>
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon2505&amp;theme=aura" alt="Languages represented across my repositories" /></a>
+</p>
 <p align="center">
-  <a href="https://github.com/shon2505">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon2505&theme=aura"
-    />
-  <a href="https://github.com/shon2505">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shon2505&theme=aura&utcOffset=8"
-    />
-</p>
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon2505&amp;theme=aura" alt="GitHub activity statistics" /></a>
+  <a href="https://github.com/shon2505"><img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shon2505&amp;theme=aura&amp;timeZone=Asia%2FKolkata" alt="Commit activity by time of day in India Standard Time" /></a>
+</p><sub>These charts summarize GitHub activity and repository languages; they are not proficiency ratings.</sub>
+</details>Away from the keyboard
+🎸 Guitar — a different kind of practice.
+🎞️ Cinematography — an eye for frames and storytelling.
+🎮 Video games — another space for curiosity and creativity.
+📈 Markets — interested in the stock market and cryptocurrencies.
+Let's connect
+Have an interesting project, a collaboration idea, or an opportunity to discuss? Send me an email.
 
-<p align="center">
- <a href="https://github.com/shon2505">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon2505&theme=aura"
-    />
-</p>
-
-
-## Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1Vz4DSzTkxGFW-Sqx9jr0NLtFpntO1bQt" download>Download my resume</a>
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p >
-<!-- &nbsp; <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   -->
-&nbsp; <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/shantanu-shahane-ashtekar-4954251b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:shahaneshantanu2505@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
+Résumé · LinkedIn · GitHub
+<p align="center"><sub>Code, clouds, and a little cinematography.</sub></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shon2505.shon2505" alt="Profile visitor counter" /></p>
